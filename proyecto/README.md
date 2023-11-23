@@ -43,4 +43,8 @@ El proyecto está organizado en varios componentes y carpetas. Aquí hay una bre
 
 - **Integración con Firebase**: Utiliza Firebase para almacenar y recuperar información sobre productos y órdenes.
 
+## Gif de la página
+
+![React App - Google Chrome 2023-11-22 10-58-56](https://github.com/leandroren/EntregaFinalCoderHouseRen/assets/103762408/8f87bdb2-5f4e-4783-9a82-1b1777175b17)
+
 ¡Esperamos que disfrutes explorando nuestra tienda de indumentaria! 🛍️
